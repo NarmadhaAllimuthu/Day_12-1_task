@@ -1,0 +1,40 @@
+
+.box{
+    margin: 30px 10px 10px 20px;
+    background-color: cadetblue;
+  height:550px;
+}
+
+.container{
+    margin:20px 120px 5px 120px;
+    height:500px;
+    padding: 5px;
+    background-color:gainsboro;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.boxpart{
+padding:70px 2px 10px 20px!important;
+   text-align: center;
+   width: 310px;
+
+}
+
+.boxpart1{
+   padding:10px 5px 10px 5px;
+   text-align: right;
+   width: 750px;
+}
+
+
+.form-group row{
+height: 40px;
+width: 800px;
+width: fit-content;
+}
+
+.form{
+    text-align: right;
+}
